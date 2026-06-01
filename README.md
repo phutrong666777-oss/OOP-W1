@@ -3,8 +3,9 @@
 ## Description
 
 This project implements basic Object-Oriented Programming concepts in C++.
+Include class of Fraction, Point, Rectangle.
 
-## Classes
+## Features
 
 ### Fraction (Question1)
 
@@ -25,23 +26,32 @@ This project implements basic Object-Oriented Programming concepts in C++.
 - Rectangle validation
 - Perimeter calculation
 - Area calculation
-- Draw UML table
+- Draw UML diagram
+
+## UML Diagram
+![UML](Class Diagram1.jpg)
 
 ## Project Structure
-├──W1.zip
-   ├──25127534
-      ├──source
-          ├──Question1
-             ├──Q1.cpp
-             ├──Q2.h
-          ├──Question2
-             ├──Q2.cpp
-             ├──Q2.h
-          ├──Question3
-             ├──Q2.h
-             ├──Q3.h
-             ├──Q3.cpp
-             ├──UML.vpp
+
+```text
+OOP-W1/
+│
+├── source/
+│   ├── Question1/
+│   │   ├── Q1.h
+│   │   └── Q1.cpp
+│   │
+│   ├── Question2/
+│   │   ├── Q2.h
+│   │   └── Q2.cpp
+│   │
+│   └── Question3/
+│       ├── Q3.h
+│       ├── Q3.cpp
+│       └── UML.vpp
+│
+└── README.md
+```
 
 ## Compile
 
@@ -54,15 +64,3 @@ g++ main.cpp Q1.cpp Q2.cpp Q3.cpp -o program
 ```bash
 ./program
 ```
-
-## OOP Concepts Used
-
-- Class
-- Object
-- Constructor
-- Encapsulation
-
-## Course
-
-Object-Oriented Programming
-Week 1 Assignment
