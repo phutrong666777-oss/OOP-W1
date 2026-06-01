@@ -29,7 +29,7 @@ Include class of Fraction, Point, Rectangle.
 - Draw UML diagram
 
 ## UML Diagram
-![UML](Class Diagram1.jpg)
+![UML](C:\Users\ASUS\AppData\Local\Temp\337f25be-2d55-4299-8807-db0175de2db0_W1.zip.db0\25127534\25127534\source\Question3\Class Diagram1.jpg)
 
 ## Project Structure
 
